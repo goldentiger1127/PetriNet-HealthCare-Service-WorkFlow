@@ -10,3 +10,5 @@
 ._target
 .~$5 Resource for MultipleServer.xlsx
 .classpath
+/.idea
+/.settings
