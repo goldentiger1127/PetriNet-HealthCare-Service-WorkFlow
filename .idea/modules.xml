@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bin/Petri Net.iml" filepath="$PROJECT_DIR$/bin/Petri Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Petrinet_with_GUI.iml" filepath="$PROJECT_DIR$/Petrinet_with_GUI.iml" />
+    </modules>
+  </component>
+</project>
